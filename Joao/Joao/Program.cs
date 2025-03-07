@@ -10,6 +10,7 @@ namespace Joao
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Teste");
         }
     }
 }
