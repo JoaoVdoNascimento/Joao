@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C7764FC2-0D5C-4C8C-B8D9-A21CE4D449B2}</ProjectGuid>
+    <ProjectGuid>{D62459A5-2CD9-45A5-8E2A-2D5A6736DA0C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Aula_abstract</RootNamespace>
-    <AssemblyName>Aula abstract</AssemblyName>
+    <RootNamespace>Joao</RootNamespace>
+    <AssemblyName>Joao</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
